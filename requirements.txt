@@ -1,0 +1,4 @@
+cvzone
+mediapipe
+opencv-python
+tensorflow #2.9.1
